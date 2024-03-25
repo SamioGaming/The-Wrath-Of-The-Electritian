@@ -5,7 +5,6 @@ import com.samiog.electritian.block.ModBlocks;
 import com.samiog.electritian.entity.ModEntities;
 import com.samiog.electritian.item.ModItems;
 
-import net.minecraft.data.tags.TagsProvider;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.BuildCreativeModeTabContentsEvent;
